@@ -1,0 +1,19 @@
+{
+  "name": "vndss.server-node",
+  "version": "0.0.0",
+  "description": "VNDSS.ServerNode",
+  "main": "app.js",
+  "author": {
+    "name": "Windows 10 Pro",
+    "email": ""
+  },
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "http": "0.0.0",
+    "mssql": "^3.1.2",
+    "mysql": "^2.10.2",
+    "node-gcm": "^0.14.0",
+    "path": "^0.12.7"
+  }
+}
